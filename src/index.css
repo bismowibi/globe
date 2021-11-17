@@ -4,6 +4,5 @@
 @tailwind utilities;
 
 body {
-  @apply font-main text-white;
+  @apply font-main text-[#4B5463];
 }
-
